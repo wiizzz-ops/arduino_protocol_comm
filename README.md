@@ -1,4 +1,4 @@
-<h2>Protokol Komunikasi Pada Mikrokontroler</h2>
+<h1>Protokol Komunikasi Pada Mikrokontroler</h1>
 
 ![GITHUB BANNER](https://github.com/user-attachments/assets/1cf624dc-dc01-48fc-9ac3-7fa95902dde5)
 
